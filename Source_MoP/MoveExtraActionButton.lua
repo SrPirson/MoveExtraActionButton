@@ -1,4 +1,4 @@
-if WOW_PROJECT_ID ~= 14 then
+if WOW_PROJECT_ID ~= WOW_PROJECT_MISTS_CLASSIC then
     return
 end
 
