@@ -1,0 +1,25 @@
+## Interface: 20505, 50503
+## Version: 1.00
+## Author: Pirson
+## LoadOnDemand: 0
+
+## Title: |TInterface/AddOns/MoveExtraActionButton/img/eab-logo:16:16|t |cffd597ffMove Extra Action Button|r
+
+## Notes: |cFF33CCFFMove the ExtraActionButton1 anywhere on your screen.|r|n|n|cffbbbbbbUse /eab to show or hide the movable frame.|r
+## Notes-deDE: |cFF33CCFFVerschiebt den ExtraActionButton1 überall auf dem Bildschirm.|r|n|n|cffbbbbbbBenutze /eab, um das bewegliche Fenster ein- oder auszublenden.|r
+## Notes-esES: |cFF33CCFFMueve el ExtraActionButton1 en cualquier parte de la pantalla.|r|n|n|cffbbbbbbUsa /eab para mostrar u ocultar el cuadro movible.|r
+## Notes-esMX: |cFF33CCFFMueve el ExtraActionButton1 en cualquier parte de la pantalla.|r|n|n|cffbbbbbbUsa /eab para mostrar u ocultar el cuadro movible.|r
+## Notes-frFR: |cFF33CCFFDéplacez l’ExtraActionButton1 n’importe où sur votre écran.|r|n|n|cffbbbbbbUtilisez /eab pour afficher ou masquer le cadre déplaçable.|r
+## Notes-itIT: |cFF33CCFFSposta l’ExtraActionButton1 ovunque sullo schermo.|r|n|n|cffbbbbbbUsa /eab per mostrare o nascondere il frame spostabile.|r
+## Notes-koKR: |cFF33CCFFExtraActionButton1을 화면 어디서나 이동할 수 있습니다.|r|n|n|cffbbbbbb/eab 명령어로 이동 프레임 표시/숨기기.|r
+## Notes-ptBR: |cFF33CCFFMove o ExtraActionButton1 para qualquer lugar na tela.|r|n|n|cffbbbbbbUse /eab para mostrar ou ocultar o quadro movível.|r
+## Notes-ptPT: |cFF33CCFFMove o ExtraActionButton1 para qualquer lugar no ecrã.|r|n|n|cffbbbbbbUse /eab para mostrar ou ocultar o quadro movível.|r
+## Notes-ruRU: |cFF33CCFFПеремещайте ExtraActionButton1 в любом месте экрана.|r|n|n|cffbbbbbbИспользуйте /eab, чтобы показать или скрыть рамку.|r
+## Notes-zhCN: |cFF33CCFF将 ExtraActionButton1 移动到屏幕任意位置。|r|n|n|cffbbbbbb使用 /eab 显示或隐藏可移动框架。|r
+## Notes-zhTW: |cFF33CCFF將 ExtraActionButton1 移動到螢幕任意位置。|r|n|n|cffbbbbbb使用 /eab 顯示或隱藏可移動框架。|r
+
+## X-Curse-Project-ID: 1308021
+
+
+Source_TBC/MoveExtraActionButton.lua
+Source_MoP/MoveExtraActionButton.lua
